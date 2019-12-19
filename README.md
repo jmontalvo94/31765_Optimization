@@ -1,5 +1,5 @@
 # 31765 - Optimization in Modern Power Systems
-This repository is intended for the group assignments of the course '31765 - Optimization in Modern Power Systems' at the Technical University of Denmark (DTU). It contains the Matlab scripts and data for assignment 1 and 2.
+This repository is intended for the group assignments of the course '31765 - Optimization in Modern Power Systems' at the Technical University of Denmark (DTU). It contains the Matlab scripts and data for assignment 1 and 2. See Spyros Chatzivasileiadis' [webpage](http://www.chatziva.com/teaching.html) for further information on the course.
 
 ## Program
 The project is coded in [Matlab R2019b](https://www.mathworks.com/products/matlab.html)
